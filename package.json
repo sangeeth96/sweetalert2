@@ -14,7 +14,7 @@
     "babel-plugin-array-includes": "^2.0.3",
     "browser-sync": "^2.26.3",
     "custom-event-polyfill": "^1.0.6",
-    "eslint": "^5.12.1",
+    "eslint": "^5.15.3",
     "execa": "^1.0.0",
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^6.0.0",
